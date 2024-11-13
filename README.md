@@ -1,6 +1,6 @@
 # LinkedIn Customized Post Generator For Bill Gates (Llama3.2)
 ![Screenshot (9)](https://github.com/user-attachments/assets/f4005b38-9c85-42b5-9d83-f9bcde40d005)
-
+# [DEMO LINK](https://mayankprojectlinkedin.streamlit.app/)
 ## Project Aim
 The primary aim of this project is to automate the creation of LinkedIn posts based on specified parameters, such as topic, language, and length, enabling streamlined post generation for various themes and styles. The tool reads, processes, and filters pre-existing post data, incorporates a language model for new content generation, and allows users to specify criteria to generate posts effectively.
 
