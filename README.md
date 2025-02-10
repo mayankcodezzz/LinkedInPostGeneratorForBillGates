@@ -1,4 +1,5 @@
 # LinkedIn Customized Post Generator For Bill Gates (Llama3.2)
+## Made by Tulsi Patel and Mayank Pareek
 ![Screenshot (9)](https://github.com/user-attachments/assets/f4005b38-9c85-42b5-9d83-f9bcde40d005)
 # [DEMO LINK 🔗](https://mayankprojectlinkedin.streamlit.app/)
 ## Project Aim
